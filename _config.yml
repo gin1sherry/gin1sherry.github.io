@@ -30,6 +30,7 @@ navigation:
     url: /tags
   - name: 游戏
     url: /game
+  <a href="http://47.109.145.120/">博客</a>
 
 # Pagination
 paginate: 8
