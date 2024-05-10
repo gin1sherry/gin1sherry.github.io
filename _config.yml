@@ -65,8 +65,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: c36a854299ec988e38e6
-  clientSecret: 94ce0ea61265456a4a1d3041d182ed44b7eb1365
+  clientID:Ov23ctOs1CN3fByfuMa7
+  clientSecret:3917690a824a2c9b112036056315d4ecb4046450
   repo: gin1sherry.github.io
   owner: gin1sherry
 
